@@ -28,7 +28,3 @@ Ability to customize the behavior of the chatbot
 Ability to add additional features to the chatbot
 Thank you for using WPGutenbergOpenAIChat!
 
-I have made the following changes to the translation:
-
-I have changed the title to "WPGutenbergOpenAIChat" to make it consistent with the name of the repository.
-I have changed the language of the project to "English" to make it clear that the plugin is available in
